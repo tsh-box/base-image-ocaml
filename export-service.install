@@ -51,7 +51,7 @@ ocamlmod	0.0.8	installed
 ocb-stubblr	0.1.1	installed
 ocplib-endian	1.0	installed
 omake	0.10.2	installed
-opium	0.16.0	installed	git	https://github.com/me-box/opium.git#fix-ssl-option
+opium	0.16.0	installed	git	https://github.com/tsh2/opium.git#fix-ssl-option
 ppx_ast	v0.9.1	installed
 ppx_core	v0.9.0	installed
 ppx_cstruct	3.1.1	installed
@@ -71,7 +71,7 @@ re	1.7.1	installed
 result	1.2	installed
 rresult	0.5.0	installed
 sexplib	v0.9.2	installed
-sodium	0.5.0	installed	git	https://github.com/me-box/ocaml-sodium.git#with_auth_hmac256
+sodium	0.5.0	installed	git	https://github.com/tsh2/ocaml-sodium.git#with_auth_hmac256
 stdio	v0.9.0	installed
 stringext	1.5.0	installed
 topkg	0.9.0	installed
