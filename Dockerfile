@@ -10,4 +10,4 @@ RUN opam repository add --use-internal-solver git https://github.com/ocaml/opam-
 WORKDIR builder/
 ADD . .
 
-RUN opam switch import export-service.install
+RUN opam switch --use-internal-solver import export-service.install
